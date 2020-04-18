@@ -1,0 +1,5 @@
+site_name: The Miami-Dade Covid Project
+repo_url: https://github.com/Rwilli5/git
+
+theme:
+  name: readthedocs
